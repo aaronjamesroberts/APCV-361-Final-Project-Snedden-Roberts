@@ -1,0 +1,20 @@
+Project Log Report Roberts Mar 27 - Apr 2
+  
+ACTIONS
+What actions did you take during this week?
+This week I spent some time analising the data, looking through the code written by my partner and getting GitHub and VScode to link up.
+What steps were successful?
+I feel like I was able to really get a good feel for the data that we have collected for the project. 
+I was able to get a good understanding of the data cleaning that my partner completed. I wasn't so succesful at getting the GitHub repository to work with VScode.
+COLLABORATIONS
+Who did you work with?
+I worked with my partner Trevor Snedden.
+What did you accomplish?
+We cleaned the code and started building the skeleton code for the final project.
+REFLECTIONS and PLANS:
+What part of your plan was achieved?
+We got practically everything that we planned this week completed. 
+Explain what, where, and how?
+We created a jupyter notebook, it was uploaded to GitHub, and it loads in our data and cleans it for analysis. 
+What and how will you do next?
+Next week we will start doing some of the preliminary analysis. This includes created graphs/charts and calculating data descripters such as mean/SD/Corrilation
