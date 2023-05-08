@@ -1,20 +1,20 @@
 Project Log Report Snedden Apr 10 - Apr 16
-  
+
 ACTIONS
 What actions did you take during this week? 
-Merged the two seperate data framed dropping duplicates and create a new filtered .csv file
-for quicker load times and access.
+find and import power-plant data and mortality rate data.
+create a pandas data Frame
 What steps were successful?
-All steps were successful after a redo of merger.
+all steps were succesfull 
 COLLABORATIONS
 Who did you work with?
-My partner Aaron Robers
+Aaron Robers
 What did you accomplish?
-Reorganized the data frame and arrays.
-Used pandas to find calculations such as mean, median, and standard deviation for the datasets.
+Our action plans of importing data
 REFLECTIONS and PLANS:
-What part of your plan was achieved?
-So far, staying on schedule
+What part of your plan was achieved$
 Explain what, where, and how?
-What and how will you do next?
-continue to filter the data to be able to make comparisons and calculations.
+Created DataFrames with counties that burned coal and counties that produced energy by other means. 
+What and how will you do next? 
+Continue to sort data into usable data and exclude the data that is not 
+needed for this research.
