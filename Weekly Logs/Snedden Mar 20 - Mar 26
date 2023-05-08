@@ -1,23 +1,23 @@
 Project Log Report Snedden Mar 20 - Mar 26
-  
+
 ACTIONS
 What actions did you take during this week? 
-Collaberated with partner to figure out which data out of the data set that we should use
-to conduct our calculations. 
+find and import power-plant data and mortality rate data.
+create a pandas data Frame
 What steps were successful?
-Figured out which data we were going to use. 
+all steps were succesfull 
 COLLABORATIONS
 Who did you work with?
-My partner Aaron Robers
+Aaron Robers
 What did you accomplish?
-Started to filter the data into sorted usable data
-
+Our action plans of importing data
 REFLECTIONS and PLANS:
-What part of your plan was achieved?
-So far, staying on schedule
+What part of your plan was achieved$
 Explain what, where, and how?
-Found data from the epa on the power plant data within the U.S
-
-What and how will you do next?
-continue to filter and merge the data together into data frames that is easier to read/understand.
+Created DataFrames with counties that burned coal and counties that produced energy by other means. 
+What and how will you do next? 
+Continue to sort data into usable data and exclude the data that is not 
+needed for this research.
+  
+.
 
