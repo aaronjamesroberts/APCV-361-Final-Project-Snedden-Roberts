@@ -1,1 +1,10 @@
-
+ACTIONS
+Partner conducted collected values to conduct a PearsonsR calculation to show the corralation for the counties with coal power plants and their respective life expectancy
+ 
+I started plotting the values using the median values for each state’s coal and non-coal energy plants life expectancy range. Created several plots using bar graph for the median ranges. Created line graphs and boxplots to show the quantitative values as well
+COLLABORATIONS
+Aaron Roberts
+REFLECTIONS and PLANS:
+Wrap up any remaining data calculations and possibly change some plotting data. 
+Need to start writing out our reasoning and data depictions. 
+Add a T-Test to corrolate the Pearson-R calculations and wrap up any loose ends
