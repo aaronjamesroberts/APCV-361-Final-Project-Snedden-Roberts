@@ -2,21 +2,22 @@ Project Log Report Snedden Mar 20 - Mar 26
   
 ACTIONS
 What actions did you take during this week? 
-Merged the two seperate data framed dropping duplicates and create a new filtered .csv file
-for quicker load times and access.
+Collaberated with partner to figure out which data out of the data set that we should use
+to conduct our calculations. 
 What steps were successful?
-All steps were successful after a redo of merger.
+Figured out which data we were going to use. 
 COLLABORATIONS
 Who did you work with?
 My partner Aaron Robers
 What did you accomplish?
-Partner created the github folders and Jupyter notebook to get us started. 
-Reorganized the data frame and arrays.
-Used pandas to find calculations such as mean, median, and standard deviation for the datasets.
+Started to filter the data into sorted usable data
+
 REFLECTIONS and PLANS:
 What part of your plan was achieved?
 So far, staying on schedule
 Explain what, where, and how?
+Found data from the epa on the power plant data within the U.S
+
 What and how will you do next?
-continue to filter the data to be able to make comparisons and calculations.
+continue to filter and merge the data together into data frames that is easier to read/understand.
 
