@@ -1,12 +1,21 @@
 Project Log Report Snedden Apr 17 - Apr 23
-  
+
 ACTIONS
 What actions did you take during this week? 
+Merged the two seperate data framed dropping duplicates and create a new filtered .csv file
+for quicker load times and access.
 What steps were successful?
+All steps were successful after a redo of merger.
 COLLABORATIONS
 Who did you work with?
+My partner Aaron Robers
 What did you accomplish?
+Reorganized the data frame and arrays.
+Used pandas to find calculations such as mean, median, and standard deviation for the datasets.
 REFLECTIONS and PLANS:
 What part of your plan was achieved?
+So far, staying on schedule
 Explain what, where, and how?
-What and how will you do next? 
+What and how will you do next?
+continue to filter the data to be able to make comparisons and calculations.
+  
